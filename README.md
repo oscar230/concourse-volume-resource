@@ -1,6 +1,9 @@
 # concourse-volume-resource
 Persist data in any docker volume accessible by the worker.
 
+## Notice
+No maintainer at the moment, feel free to fork.
+
 ## Build and publish
 ```bash
 docker build -t my-docker-volume-resource .
